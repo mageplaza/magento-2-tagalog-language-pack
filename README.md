@@ -4,6 +4,7 @@
 
 Read more [Magento 2 Tagalog Language Pack](https://www.mageplaza.com/magento-2-tagalog-language-pack.html)
 
+![Mageplaza Tagalog language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
